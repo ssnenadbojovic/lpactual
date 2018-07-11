@@ -1,0 +1,104 @@
+LMIS (lower: string,
+        upper: string,
+        fhog: string,
+        propertyType: string,
+        minimumLmi: string,
+        investementIndex: string,
+        lmirequiredOver: string,
+        d60: string,
+        d61: string,
+        d62: string,
+        d63: string,
+        d64: string,
+        d65: string,
+        d66: string,
+        d67: string,
+        d68: string,
+        d69: string,
+        d70: string,
+        d71: string,
+        d72: string,
+        d73: string,
+        d74: string,
+        d75: string,
+        d76: string,
+        d77: string,
+        d78: string,
+        d79: string,
+        d80: string,
+        d81: string,
+        d82: string,
+        d83: string,
+        d84: string,
+        d85: string,
+        d86: string,
+        d87: string,
+        d88: string,
+        d89: string,
+        d90: string,
+        d91: string,
+        d92: string,
+        d93: string,
+        d94: string,
+        d95: string) {
+return (
+  <Grid >
+  <Grid.Row  stretched={true} className="scrollwrapper">
+  <Grid.Column width={14}>
+  <div className="scrollrow" >lower<Input  Placeholder="lower" className="myinputs" type="text" value={lower}/></div>
+  <div className="scrollrow" >upper<Input  Placeholder="upper" className="myinputs" type="text" value={upper}/></div>
+  <div className="scrollrow" >fhog<Input  Placeholder="fhog" className="myinputs" type="text" value={fhog}/></div>
+  <div className="scrollrow" >propertyType:
+  <Input  Placeholder="propertyType:" className="myinputs" type="text" value={propertyType}/></div>
+  <div className="scrollrow" >
+  minimumLmi<Input  Placeholder="minimumLmi" className="myinputs" type="text" value={minimumLmi}/></div>
+  <div className="scrollrow" >
+  investementIndex
+  <Input  Placeholder="investementIndex" className="myinputs" type="text" value={investementIndex}/></div>
+  <div className="scrollrow" >
+  lmirequiredOver<Input  Placeholder="lmirequiredOver" className="myinputs" type="text" value={lmirequiredOver}/></div>
+  <div className="scrollrow" >d60<Input  Placeholder="d60" className="myinputs" type="text" value={d60}/></div>
+  <div className="scrollrow" >d61<Input  Placeholder="d61" className="myinputs" type="text" value={d61}/></div>
+  <div className="scrollrow" >d62<Input  Placeholder="d62" className="myinputs" type="text" value={d62}/></div>
+  <div className="scrollrow" >d63<Input  Placeholder="d63" className="myinputs" type="text" value={d63}/></div>
+  <div className="scrollrow" >d64<Input  Placeholder="d64" className="myinputs" type="text" value={d64}/></div>
+  <div className="scrollrow" >d65<Input  Placeholder="d65" className="myinputs" type="text" value={d65}/></div>
+  <div className="scrollrow" >d66<Input  Placeholder="d66" className="myinputs" type="text" value={d66}/></div>
+  <div className="scrollrow" >d67<Input  Placeholder="d67" className="myinputs" type="text" value={d67}/></div>
+  <div className="scrollrow" >d68<Input  Placeholder="d68" className="myinputs" type="text" value={d68}/></div>
+  <div className="scrollrow" >d69<Input  Placeholder="d69" className="myinputs" type="text" value={d69}/></div>
+  <div className="scrollrow" >d70<Input  Placeholder="d70" className="myinputs" type="text" value={d70}/></div>
+  <div className="scrollrow" >d71<Input  Placeholder="d71" className="myinputs" type="text" value={d71}/></div>
+  <div className="scrollrow" >d72<Input  Placeholder="d72" className="myinputs" type="text" value={d72}/></div>
+  <div className="scrollrow" >d73<Input  Placeholder="d73" className="myinputs" type="text" value={d73}/></div>
+  <div className="scrollrow" >d74<Input  Placeholder="d74" className="myinputs" type="text" value={d74}/></div>
+  <div className="scrollrow" >d75<Input  Placeholder="d75" className="myinputs" type="text" value={d75}/></div>
+  <div className="scrollrow" >d76<Input  Placeholder="d76" className="myinputs" type="text" value={d76}/></div>
+  <div className="scrollrow" >d77<Input  Placeholder="d77" className="myinputs" type="text" value={d77}/></div>
+  <div className="scrollrow" >d78<Input  Placeholder="d78" className="myinputs" type="text" value={d78}/></div>
+  <div className="scrollrow" >d79<Input  Placeholder="d79" className="myinputs" type="text" value={d79}/></div>
+  <div className="scrollrow" >d80<Input  Placeholder="d80" className="myinputs" type="text" value={d80}/></div>
+  <div className="scrollrow" >d81<Input  Placeholder="d81" className="myinputs" type="text" value={d81}/></div>
+  <div className="scrollrow" >d82<Input  Placeholder="d82" className="myinputs" type="text" value={d82}/></div>
+  <div className="scrollrow" >d83<Input  Placeholder="d83" className="myinputs" type="text" value={d83}/></div>
+  <div className="scrollrow" >d84<Input  Placeholder="d84" className="myinputs" type="text" value={d84}/></div>
+  <div className="scrollrow" >d85<Input  Placeholder="d85" className="myinputs" type="text" value={d85}/></div>
+  <div className="scrollrow" >d86<Input  Placeholder="d86" className="myinputs" type="text" value={d86}/></div>
+  <div className="scrollrow" >d87<Input  Placeholder="d87" className="myinputs" type="text" value={d87}/></div>
+  <div className="scrollrow" >d88<Input  Placeholder="d88" className="myinputs" type="text" value={d88}/></div>
+  <div className="scrollrow" >d89<Input  Placeholder="d89" className="myinputs" type="text" value={d89}/></div>
+  <div className="scrollrow" >d90<Input  Placeholder="d90" className="myinputs" type="text" value={d90}/></div>
+  <div className="scrollrow" >d91<Input  Placeholder="d91" className="myinputs" type="text" value={d91}/></div>
+  <div className="scrollrow" >d92<Input  Placeholder="d92" className="myinputs" type="text" value={d92}/></div>
+  <div className="scrollrow" >d93<Input  Placeholder="d93" className="myinputs" type="text" value={d93}/></div>
+  <div className="scrollrow" >d94<Input  Placeholder="d94" className="myinputs" type="text" value={d94}/></div>
+  <div className="scrollrow" >d95<Input  Placeholder="d95" className="myinputs" type="text" value={d95}/></div>
+  </Grid.Column >
+  <Grid.Column >
+  <Icon name="trash"/>
+  </Grid.Column>"
+</Grid.Row>
+</Grid>
+  
+)
+}

@@ -1,0 +1,20 @@
+2018-07-02T20:36:18.752442332 0.030729s notice: Recursively removing directory /home/nenad/Downloads/lpClient/rethinkdb_data/tmp
+2018-07-02T20:36:18.758515192 0.036798s notice: Initializing directory /home/nenad/Downloads/lpClient/rethinkdb_data
+2018-07-02T20:36:18.758682796 0.036969s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/nenad/Downloads/lpClient/rethinkdb_data' did not already exist or is empty.)
+2018-07-02T20:36:18.758739223 0.037022s notice: Running rethinkdb 2.3.6~0xenial (GCC 5.3.1)...
+2018-07-02T20:36:18.770174023 0.048463s notice: Running on Linux 4.13.0-36-generic x86_64
+2018-07-02T20:36:18.770275982 0.048559s notice: Loading data from directory /home/nenad/Downloads/lpClient/rethinkdb_data
+2018-07-02T20:36:18.848143795 0.126426s info: Automatically using cache size of 1037 MB
+2018-07-02T20:36:18.850066774 0.128350s notice: Listening for intracluster connections on port 29015
+2018-07-02T20:36:18.861647669 0.139930s notice: Listening for client driver connections on port 28015
+2018-07-02T20:36:18.861908572 0.140191s notice: Listening for administrative HTTP connections on port 8080
+2018-07-02T20:36:18.861916673 0.140199s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2018-07-02T20:36:18.861923378 0.140205s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2018-07-02T20:36:18.861931478 0.140214s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2018-07-02T20:36:18.861938183 0.140220s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2018-07-02T20:36:18.861946563 0.140228s notice: Server ready, "nenad_VirtualBox_lcl" 3ee1d57b-8771-41c4-82f2-3e526eed4c9b
+2018-07-02T20:39:35.236742999 196.515026s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2018-07-02T20:39:35.236901392 196.515185s notice: Shutting down client connections...
+2018-07-02T20:39:35.236981287 196.515271s notice: All client connections closed.
+2018-07-02T20:39:35.237003077 196.515291s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2018-07-02T20:39:35.237357855 196.515643s notice: Storage engine shut down.

@@ -1,0 +1,21 @@
+2018-06-19T11:10:18.421967816 0.063409s notice: Recursively removing directory /home/nenad/FINNALY/projekt/rethinkdb_data/tmp
+2018-06-19T11:10:18.423745272 0.065185s notice: Initializing directory /home/nenad/FINNALY/projekt/rethinkdb_data
+2018-06-19T11:10:18.423824049 0.065264s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/nenad/FINNALY/projekt/rethinkdb_data' did not already exist or is empty.)
+2018-06-19T11:10:18.423864670 0.065304s notice: Running rethinkdb 2.3.6~0xenial (GCC 5.3.1)...
+2018-06-19T11:10:18.426263904 0.067706s notice: Running on Linux 4.13.0-45-generic x86_64
+2018-06-19T11:10:18.426332098 0.067772s notice: Loading data from directory /home/nenad/FINNALY/projekt/rethinkdb_data
+2018-06-19T11:10:18.440528563 0.081968s info: Automatically using cache size of 799 MB
+2018-06-19T11:10:18.441831679 0.083272s notice: Listening for intracluster connections on port 29015
+2018-06-19T11:10:18.446706953 0.088147s notice: Listening for client driver connections on port 28015
+2018-06-19T11:10:18.446881716 0.088321s notice: Listening for administrative HTTP connections on port 8080
+2018-06-19T11:10:18.446886142 0.088326s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2018-06-19T11:10:18.446892154 0.088332s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2018-06-19T11:10:18.446895722 0.088335s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2018-06-19T11:10:18.446901409 0.088341s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2018-06-19T11:10:18.446907245 0.088347s notice: Server ready, "nenad_IdeaPad_U430p_nmy" 3078bbef-62bd-44fb-9c9c-7606979a25b7
+2018-06-19T11:12:57.013776957 158.655217s info: Table 1fde40bb-39a8-42ff-8dee-9b01d6ec3dee: Starting a new Raft election for term 1.
+2018-06-19T11:12:57.013927546 158.655368s info: Table 1fde40bb-39a8-42ff-8dee-9b01d6ec3dee: Added replica on this server.
+2018-06-19T11:12:57.015249217 158.656689s info: Table 1fde40bb-39a8-42ff-8dee-9b01d6ec3dee: This server is Raft leader for term 1. Latest log index is 0.
+2018-06-19T11:13:29.805030216 191.446470s info: Table d79f67d7-ad70-4742-aa7a-bd992563fa5d: Starting a new Raft election for term 1.
+2018-06-19T11:13:29.805263571 191.446703s info: Table d79f67d7-ad70-4742-aa7a-bd992563fa5d: Added replica on this server.
+2018-06-19T11:13:29.806574181 191.448014s info: Table d79f67d7-ad70-4742-aa7a-bd992563fa5d: This server is Raft leader for term 1. Latest log index is 0.
